@@ -1,8 +1,8 @@
 body {
-    background-color: white
+    background-color: rgb(14, 13, 13)
   }
   h1 {
-    color: green;
+    color: rgb(255, 255, 255);
   }
   p {
     color: red;
