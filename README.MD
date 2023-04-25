@@ -1,2 +1,1 @@
-EJERCICIO
 Ejercicio de clase
